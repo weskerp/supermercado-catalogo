@@ -4,7 +4,7 @@ import {
   Tag,
   X,
 } from 'lucide-react'
-import { products, categories } from '../../data/Products'
+import { products, categories } from '../../data/Products2'
 function formatPrice(value) {
   return value.toLocaleString('pt-BR', {
     style: 'currency',
