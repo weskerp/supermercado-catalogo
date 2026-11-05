@@ -1,0 +1,12 @@
+:root {
+    --brand-primary: #064A91;
+    --brand-secondary: #D71920;
+    --brand-background: #FFFFFF;
+    --brand-surface: #F8FAFC;
+    --brand-text: #172033;
+  }
+  
+  body {
+    background: var(--brand-surface);
+    color: var(--brand-text);
+  }
